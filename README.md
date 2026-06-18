@@ -132,7 +132,7 @@ The second phase transforms raw data into meaningful business insights.
 
 ## Project Architecture
 
-![SQL Data Analytics Workflow](Data_Analysis_workflow.png)
+![SQL Data Analytics Workflow]("C:\Users\ayush\Downloads\Data_Analysis_workflow.png")
 
 The workflow starts with Exploratory Data Analysis to understand the dataset and progresses toward Advanced Analytics techniques that generate meaningful business insights and support data-driven decision-making.
 
@@ -161,4 +161,5 @@ Currently building skills in SQL, Power BI, and data-driven problem solving.
 If you have suggestions or feedback, feel free to connect with me.
 
 LinkedIn: https://www.linkedin.com/in/ayush-kumar-16982738a/
+
 GitHub: https://github.com/AyushStorm19
