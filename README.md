@@ -132,7 +132,7 @@ The second phase transforms raw data into meaningful business insights.
 
 ## Project Architecture
 
-![SQL Data Analytics Workflow](project_workflow.png)
+![SQL Data Analytics Workflow](Data_Analysis_workflow.png)
 
 The workflow starts with Exploratory Data Analysis to understand the dataset and progresses toward Advanced Analytics techniques that generate meaningful business insights and support data-driven decision-making.
 
