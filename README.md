@@ -94,33 +94,6 @@ The second phase transforms raw data into meaningful business insights.
 
 ---
 
-## Skills Demonstrated
-
-### SQL Concepts
-
-* Joins
-* Common Table Expressions (CTEs)
-* Subqueries
-* Window Functions
-* Aggregate Functions
-* CASE Statements
-* Ranking Functions
-* Date Functions
-* Views
-* Data Filtering
-
-### Analytical Techniques
-
-* Exploratory Data Analysis (EDA)
-* Trend Analysis
-* Segmentation Analysis
-* Performance Analysis
-* Ranking Analysis
-* Cumulative Metrics
-* Business Reporting
-
----
-
 ## Tools Used
 
 * SQL
